@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allglenn
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning about aws,saas,nodejs...
+- 🌱 I’m currently learning about aws,saas,nodejs,Terraform,React js,React native and any kind of inovation...
 - 💞️ I’m looking to collaborate on saas project 
 - 📫 How to reach me : on twitter @glenn_all or linkedin "https://www.linkedin.com/in/glenn-allogho-94649688/"
 
