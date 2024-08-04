@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @allglenn
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning about aws,saas,nodejs,Terraform,React js,React native and any kind of inovation...
-- 💞️ I’m looking to collaborate on saas project 
-- 📫 How to reach me : on twitter @glenn_all or linkedin "https://www.linkedin.com/in/glenn-allogho-94649688/"
+- 👀 I’m passionate about technology and innovation
+- 🌱 I’m currently deepening my knowledge in AWS, SaaS, Node.js, Terraform, React.js, React Native, and other cutting-edge technologies
+- 💞️ I’m eager to collaborate on SaaS projects
+- 📫 How to reach me: on Twitter [@glenn_all](https://twitter.com/glenn_all), LinkedIn [Glenn Allogho](https://www.linkedin.com/in/glenn-allogho-94649688/), or Medium [@glennlenormand](https://medium.com/@glennlenormand)
 
-<!---
-allglenn/allglenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack:
+- **Languages:** JavaScript (ES6), TypeScript, Python, PHP
+- **Frameworks/Libraries:** Node.js, Express, React.js, React Native, Symfony, AngularJS, FastAPI, NestJS, Next.js
+- **Databases:** MySQL, Redis, Amazon RDS, MongoDB, PostgreSQL
+- **Cloud Technologies:** AWS (EC2, Lambda, S3, API Gateway, Route 53, Amplify), Terraform, Docker, ECS, Elastic Beanstalk, GitLab CI/CD pipelines, Grafana, CloudWatch
